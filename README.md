@@ -1,2 +1,2 @@
 # Hangman-Game
-Create hangman game by using tkinter 
+Create the hangman game by using tkinter 
